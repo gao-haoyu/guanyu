@@ -1,6 +1,6 @@
 protoc_file=./datamodel.proto
 proto_go_file=./
-target_file=guanyu
+target_file=./release/guanyu
 
 
 protoc_clean:
